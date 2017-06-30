@@ -3,4 +3,4 @@ A personal online profile by adding graphics, customising text, and improving th
 
 Practice your web design skills by customising a web page to create a personal profile. You'll modify the code for a basic web page by adding graphics, custom text, and a stylish design. 
 
-Project supplied by Team Treehouse Front-End Wed Development TechDegree
+Project supplied by Team Treehouse Front-End Web Development TechDegree
